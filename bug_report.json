@@ -1,16 +1,16 @@
 {
-		"summary": "Authors name",
-		"severity": "Major",
-		"priority": "Medium",
-		"description": "Some description",
-		"stepsToReproduce": {
-			"step1": "Do step 1",
-			"step2": "Do step 2",
-			"step3": "Do step 3"
-		},
-		"actualAndExpectResults": {
-			"actual": "Some result 1",
-			"expect": "Some result 2"
-		},
-		"attachments": "n/a"
-	}
+	"summary": "Authors name",
+	"severity": "Major",
+	"priority": "Medium",
+	"description": "Some description",
+	"stepsToReproduce": {
+		"step1": "Do step 1",
+		"step2": "Do step 2",
+		"step3": "Do step 3"
+	},
+	"actualAndExpectResults": {
+		"actual": "Some result 1",
+		"expect": "Some result 2"
+	},
+	"attachments": "n/a"
+}
