@@ -1,0 +1,33 @@
+{
+	"skill1_theory": {
+		"1": "Test theory",
+		"2": "What is testing",
+		"3": "What does tester/QA engineer do",
+		"4": "What is the goal of testing"
+	},
+	"skill2_docs": {
+		"1": "Checklist",
+		"2": "Bug report",
+		"3": "Test case",
+		"4": "Requirements"
+	},
+		"skill3_progs": {
+		"1": "devtools",
+		"2": "Postman",
+		"3": "Android Studio",
+		"4": "Dbeaver",
+		"5": "Charles"
+	},
+	"skill4_lang": {
+		"1": "Python",
+		"2": "JavaScript",
+		"3": "SQL"
+	},
+	"skill5_testTechniques": {
+		"1": "test techniques",
+		"2": "Equivalent class partitioning",
+		"3": "Boundary value analysis",
+		"4": "State transition",
+		"5": "Pairwise testing"
+	}
+}
