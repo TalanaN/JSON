@@ -1,9 +1,8 @@
 {
 	"skill1_theory": {
-		"1": "Test theory",
-		"2": "What is testing",
-		"3": "What does tester/QA engineer do",
-		"4": "What is the goal of testing"
+		"1": "What is testing",
+		"2": "What does tester/QA engineer do",
+		"3": "What is the goal of testing"
 	},
 	"skill2_docs": {
 		"1": "Checklist",
