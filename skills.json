@@ -23,10 +23,9 @@
 		"3": "SQL"
 	},
 	"skill5_testTechniques": {
-		"1": "test techniques",
-		"2": "Equivalent class partitioning",
-		"3": "Boundary value analysis",
-		"4": "State transition",
-		"5": "Pairwise testing"
+		"1": "Equivalent class partitioning",
+		"2: "Boundary value analysis",
+		"3": "State transition",
+		"4": "Pairwise testing"
 	}
 }
