@@ -24,7 +24,7 @@
 	},
 	"skill5_testTechniques": {
 		"1": "Equivalent class partitioning",
-		"2: "Boundary value analysis",
+		"2": "Boundary value analysis",
 		"3": "State transition",
 		"4": "Pairwise testing"
 	}
